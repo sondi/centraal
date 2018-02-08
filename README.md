@@ -1,2 +1,2 @@
 # centraal
-Github: Clase 1
+Github: Class 1
